@@ -1,0 +1,54 @@
+FX3U:
+1. https://dl.mitsubishielectric.com/dl/fa/document/manual/plc_fx/jy997d16501/jy997d16501y.pdf
+2. https://dl.mitsubishielectric.com/dl/fa/document/manual/plc_fx/jy997d16601/jy997d16601r.pdf
+3. https://docs.rs-online.com/ad97/0900766b80082ee7.pdf
+4. https://www.adbautomation.in/fx3u-14mr/?srsltid=AfmBOoqwVxS-iufvuYwuKUrtLUaJ9YNemB-rSB00NZTrZmZ-pUv6tk37
+5. https://www.youtube.com/@PDAControl
+
+Samkoon EA-043A:
+1. https://www.samkoon.store/ea-043a/
+2. https://www.rusavtomatika.com/upload_files/manuals/Samkoon-HMI-instruction.pdf
+3. https://kamami.pl/en/hmi-modules/1183141-samkoon-ea-043a-43-hmi-module-5906623446414.html
+4. https://plc247.com/samkoon-hmi-mitsubishi-fx3u-communication-tutorial/
+5. https://www.youtube.com/watch?v=tFAF_PIMJgc
+6. https://www.samkoon.store/samkoon-hmi/
+7. https://www.samkoon.store/wp-content/uploads/2022/08/Samkoon-HMI-INSTRUCTION-2022.pdf
+
+NTC Thermistor (Murata NCP15XH103D03RC 10K 0.5%):
+1. https://www.murata.com/products/productdetail?partno=NCP15XH103D03RC
+2. https://docs.rs-online.com/aa27/0900766b81423c07.pdf
+
+12V 40W Ceramic Cartridge Heater:
+1. https://www.amazon.com/Ceramic-Cartridge-Printers-Extruder-Diameter/dp/B071K8Z9KF
+
+GX Works2:
+1. https://us.mitsubishielectric.com/fa/en/products/cnt/programmable-controllers/engineering-software/gx-works2/
+2. https://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080787eng/sh080787engt.pdf
+3. https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltff9896a4c5cb256e/6171f08a87128d10a955f933/sh080788.pdf
+4. https://www.mitsubishifa.co.th/files/dl/sh080780engaf.pdf
+5. https://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080781eng/sh080781engag.pdf
+6. https://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080779eng/sh080779engar.pdf
+7. https://dl.mitsubishielectric.com/dl/fa/document/manual/plc_fx/jy997d34701/jy997d34701m.pdf
+
+SamDraw 5.0:
+1. https://www.samkoon.store/wp-content/uploads/2021/11/SamDrawV3_3-User_manual.pdf
+2. https://www.youtube.com/watch?v=fihT8dZAj10
+3. https://www.samkoon.store/samkoon-hmi/
+
+
+ALL:
+1. https://techdict.ge/ka/
+2. https://en.wikipedia.org/wiki/SCADA
+3. https://en.wikipedia.org/wiki/Programmable_logic_controller
+4. https://www.mroelectric.com/blog/what-is-a-plc/
+5. https://www.researchgate.net/publication/375242892_Programmable_logic_controllers_in_flexible_manufacturing_system_FMS
+6. https://www.plctechnician.com/news-blog/evolution-plcs
+7. https://www.mdpi.com/2411-5134/7/4/115
+8. https://d1wqtxts1xzle7.cloudfront.net/50299946/tim.2006.88721620161114-13601-kw8tfy-libre.pdf?1479126708=&response-content-disposition=inline%3B+filename%3DSCADA_HMI_Systems_in_Advanced_Educationa.pdf&Expires=1746309395&Signature=g6eMMhfBJWfx2S1SmLlQOCbiIraeqnBRGEKBBBNcNiEYbRpSMV7IBiTVGqEmXlnO6EaxQounZj7c0UL8v7LBAUVEuJxXAQCgRrdN-YIuD47Zv1-9b9Xwo4Ltd~RYwpAIplNbVdZp6PwT1EYZgXOeY3pMwCnul2KyJyalgS2LuDOVj8EnYoppavjVOeP~AH4Ues3esqLzZTWwpKOmJ2yECpwZmM3cXwD2CZurI8amZ~NKr4b7ePdsoqreX0HBc-INvX8xFaLW-2Nz0PcrECRGU5uTCQ~eid23TAlXgj-aUAH6FdTQtK2Ec5Krh6jqdo2FColCK0pwDlPiZsCPeVwiBw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+9. https://www.sciencedirect.com/science/article/pii/S1474667015331992
+10. https://archive.control.lth.se/media/Education/DoctorateProgram/2012/HistoryOfControl/Vanessa_Alfred_report.pdf
+11. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=54640f3a02beb8a61cd59395b74a3f46506a748d
+12. https://cds.cern.ch/record/532624/files/mc1i01.pdf
+13. https://www.researchgate.net/profile/Saurav-Basnet-2/publication/350927459_Introduce_Ladder_Logic_and_Programmable_Logic_Controller_PLC/links/66a8dabf75fcd863e5eaa06f/Introduce-Ladder-Logic-and-Programmable-Logic-Controller-PLC.pdf
+14. https://en.wikipedia.org/wiki/Ladder_logic
+15. https://conference.ase.ro/papers/2021/21105%20-%20Ion%20T.pdf

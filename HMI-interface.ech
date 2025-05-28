@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vg version="800" activesheetIndex="4" range="0,0,1280,1024" borderstyle="1" backcolor="$FAECC8" pattern="1" papervisible="false">
+<vg version="800" activesheetIndex="5" range="0,0,1280,1024" borderstyle="1" backcolor="$FAECC8" pattern="1" papervisible="false">
 <sheet name="Home" description="0000000016444616000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" hint="01 COM1 Link           000000000002000000060005000000020000000000000020000000002 COM2 Link           0000000000000000000600050000000200000000000000200000000000170000048102730000001000050010000500010000000011110000222200003333000044440000555500006666000077770000888800000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    00000000000000000000000000600000000000000060010000000000                    010000000000                    010000000000                    010000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    00000001000000000000012009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000000          000        0RSCOM_Mark0200LoadPic_Mark0000PIC_PATH_MARKEND_PIC_PATH_MARKPRESS_MARK0000000000END_PRESS_MARK                              " showHint="false">
 <rect name="Lock1" description="0000000000                                   00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                0001                              " origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" hint="0000000000                                   00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                000000000000000000000000000000000001                              " showHint="false" backcolor="$0" pattern="1" linetype="0"/>
-<rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" hint="imhkgnenbgbuideqiofcfeeqeqipjffaiseigmgyaueeifgfhejlbgaadbbscc" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
-<rect name="Lock3" description="00200010000000000100010000000901000001D  30      0100001LB        0       1000000          0       temp                          00000000300000000000000000000000000000000000000000000001000001D         30      target                        00000000300000000000000000000000000000000000000000000001000001D         130     Historical data coll                              " origin="38,32" bounds="0,273,481,273" locked="true" id="100" hint="heizhwczbchbcuccbabjiljdbtgrddaphvflcxhhavffey:SYSC:20250519013022:ENDSYS:StartVersionNum:V6.1.0.11:endVersionNum2@SVerNum:0@EndVerNum2" showHint="false" pattern="1" linecolor="$FFFFFF"/>
+<rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" hint="imhkgnenbgbuideqiofcfeeqeqipjffaiseigmgyaueeifgfhejlbijugehcjf" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
+<rect name="Lock3" description="00200010000000000100010000000901000001D  30      0100001LB        0       1000000          0       temp                          00000000300000000000000000000000000000000000000000000001000001D         30      target                        00000000300000000000000000000000000000000000000000000001000001D         130     Historical data coll                              " origin="38,32" bounds="0,273,481,273" locked="true" id="100" hint="heizhwczbchbcuccbabjiljdbtgrddaphvflcxhhavffey:SYSC:20250519015510:ENDSYS:StartVersionNum:V6.1.0.11:endVersionNum2@SVerNum:0@EndVerNum2" showHint="false" pattern="1" linecolor="$FFFFFF"/>
 <rect name="Lock4" description="0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     ExsitFreq0800                                                                                                    " origin="38,32" bounds="481,0,481,273" locked="true" id="100" hint="000000                              " showHint="false" pattern="1" linecolor="$FFFFFF"/>
 <element name="element5" description="FB0000
 0
@@ -7357,218 +7357,6 @@ Y
 <rect name="rect31" origin="577.8,527.800003" bounds="2.3,78.800003,79.3,157.300003" visible="false" enabled="false" backcolor="$C0C0" linetype="0"/>
 <rect name="rect32" origin="531.8,520.800003" bounds="2.3,78.800003,79.3,157.300003" visible="false" enabled="false" backcolor="$C0C0" linetype="0"/>
 </element>
-<element name="element5" description="NE0000
-0
-1
-0
-0
-0
-0
-0
-
-
-204
-0
-153
-8
-65280
-0
-0
-0
-24
-1
-0
-1
-R
-84
-1
-1
-0
-1
-R
-84
-1
-3
-0
-1
-999
-0
-
-
-0
-65535
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-0
-
-
-1
-0
-0
-0
-0
-0
-0
-
-
-1
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-" origin="242.884615,103.134613" bounds="66.400002,181.600006,158.400002,209.100006" selectmode="0" id="12">
-<element name="SHAPE0" origin="31.500002,159.200006" bounds="66.400002,181.600006,158.400002,209.100006">
-<rect name="rc1" origin="43.900002,192.600006" bounds="66.400002,181.600006,158.400002,209.100006" backcolor="$99" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="61.100002,194.600006" bounds="71.942859,182.951632,153.592859,207.768705" backcolor="$FF00" frontcolor="$CC" pattern="240" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="169.300002,239.000006" bounds="71.845716,182.968908,153.495716,207.785982" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="111.400002,226.330309" bounds="72.150002,182.941469,153.800002,207.758543">
-<line name="line4" origin="134.536959,179.225632" bounds="72.519046,183.072633,153.697939,183.083622" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,183.072633,6 153.697939,183.083622,2"/>
-<line name="line1" origin="73.536959,254.171772" bounds="72.519046,182.941469,72.519046,207.702692" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,182.941469,6 72.519046,207.702692,2"/>
-<line name="line2" origin="134.936959,263.071772" bounds="72.150002,207.758543,153.800002,207.758543" backcolor="$C0C0" points="72.150002,207.758543,6 153.800002,207.758543,2"/>
-<line name="line3" origin="151.936959,255.171772" bounds="153.150373,183.252834,153.150373,207.646842" backcolor="$C0C0" points="153.150373,183.252834,6 153.150373,207.646842,2"/>
-</element>
-<text name="txt1" origin="108.900002,192.800006" bounds="72.057145,183.018705,153.455002,207.825616" backcolor="$C0C0" fontname="Arial" fontsize="24" text="999"/>
-</element>
-<element name="SHAPE1" origin="128.900002,167.600006" bounds="66.400002,181.600006,158.400002,209.100006" visible="false">
-<rect name="rc1" origin="43.900002,192.600006" bounds="66.400002,181.600006,158.400002,209.100006" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="61.100002,194.600006" bounds="71.942859,182.951632,153.592859,207.768705" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="169.300002,239.000006" bounds="71.845716,182.968908,153.495716,207.785982" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="111.400002,226.330309" bounds="72.150002,182.941469,153.800002,207.758543">
-<line name="line4" origin="134.536959,179.225632" bounds="72.519046,183.072633,153.697939,183.083622" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,183.072633,6 153.697939,183.083622,2"/>
-<line name="line1" origin="73.536959,254.171772" bounds="72.519046,182.941469,72.519046,207.702692" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,182.941469,6 72.519046,207.702692,2"/>
-<line name="line2" origin="134.936959,263.071772" bounds="72.150002,207.758543,153.800002,207.758543" backcolor="$C0C0" points="72.150002,207.758543,6 153.800002,207.758543,2"/>
-<line name="line3" origin="151.936959,255.171772" bounds="153.150373,183.252834,153.150373,207.646842" backcolor="$C0C0" points="153.150373,183.252834,6 153.150373,207.646842,2"/>
-</element>
-<text name="txt1" origin="108.900002,192.800006" bounds="72.057145,183.018705,153.455002,207.825616" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-</element>
-<element name="element2" description="NE0000
-0
-1
-0
-0
-0
-0
-0
-
-
-16737792
-0
-16711680
-8
-65280
-0
-0
-0
-24
-1
-0
-1
-R
-86
-1
-1
-0
-1
-R
-86
-1
-3
-0
-1
-999
-0
-
-
-0
-65535
-0
-0
-0
-0
-0
-
-
-0
-0
-0
-
-
-0
-0
-0
-0
-
-
-1
-0
-0
-0
-0
-0
-0
-
-
-1
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-0
-" origin="242.923076,102.634613" bounds="319.899994,182.600006,411.899994,208.100006" selectmode="0" id="12">
-<element name="SHAPE0" origin="284.999994,160.200006" bounds="319.899994,182.600006,411.899994,208.100006">
-<rect name="rc1" origin="297.399994,193.600006" bounds="319.899994,182.600006,411.899994,208.100006" backcolor="$FF0000" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="314.599994,195.600006" bounds="325.442851,183.853332,407.092851,206.865527" backcolor="$FF00" frontcolor="$FF6600" pattern="240" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="422.799994,240.000006" bounds="325.345708,183.869352,406.995708,206.881547" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="364.899994,227.330309" bounds="325.649994,183.843908,407.299994,206.856104">
-<line name="line4" origin="388.036951,180.128071" bounds="326.019038,183.965533,407.197931,183.975723" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.965533,6 407.197931,183.975723,2"/>
-<line name="line1" origin="327.036951,255.074211" bounds="326.019038,183.843908,326.019038,206.804315" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.843908,6 326.019038,206.804315,2"/>
-<line name="line2" origin="388.436951,263.974211" bounds="325.649994,206.856104,407.299994,206.856104" backcolor="$C0C0" points="325.649994,206.856104,6 407.299994,206.856104,2"/>
-<line name="line3" origin="405.436951,256.074211" bounds="406.650366,184.132629,406.650366,206.752526" backcolor="$C0C0" points="406.650366,184.132629,6 406.650366,206.752526,2"/>
-</element>
-<text name="txt1" origin="362.399994,193.800006" bounds="325.557137,183.915527,406.954994,206.918299" backcolor="$C0C0" fontname="Arial" fontsize="24" text="999"/>
-</element>
-<element name="SHAPE1" origin="382.399994,168.600006" bounds="319.899994,182.600006,411.899994,208.100006" visible="false">
-<rect name="rc1" origin="297.399994,193.600006" bounds="319.899994,182.600006,411.899994,208.100006" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc2" origin="314.599994,195.600006" bounds="325.442851,183.853332,407.092851,206.865527" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
-<rect name="rc3" origin="422.799994,240.000006" bounds="325.345708,183.869352,406.995708,206.881547" backcolor="$C0C0" linetype="0"/>
-<element name="ExternUnit" origin="364.899994,227.330309" bounds="325.649994,183.843908,407.299994,206.856104">
-<line name="line4" origin="388.036951,180.128071" bounds="326.019038,183.965533,407.197931,183.975723" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.965533,6 407.197931,183.975723,2"/>
-<line name="line1" origin="327.036951,255.074211" bounds="326.019038,183.843908,326.019038,206.804315" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.843908,6 326.019038,206.804315,2"/>
-<line name="line2" origin="388.436951,263.974211" bounds="325.649994,206.856104,407.299994,206.856104" backcolor="$C0C0" points="325.649994,206.856104,6 407.299994,206.856104,2"/>
-<line name="line3" origin="405.436951,256.074211" bounds="406.650366,184.132629,406.650366,206.752526" backcolor="$C0C0" points="406.650366,184.132629,6 406.650366,206.752526,2"/>
-</element>
-<text name="txt1" origin="362.399994,193.800006" bounds="325.557137,183.915527,406.954994,206.918299" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
-</element>
-</element>
 <element name="element3" description="ND0000
 0
 1
@@ -8247,6 +8035,218 @@ M
 <line name="line4" origin="212,278" bounds="173.103571,239.697675,197.339285,263.139535" backcolor="$66CCFF" pattern="1" linetype="0" points="197.339285,239.697675,6 197.339285,263.139535,2 173.103571,251.418605,2"/>
 </element>
 <text name="txt1" origin="1123.478286,349.966181" bounds="166,233,201.1,269" selectmode="0" backcolor="$C0C0" fontname="Arial" fontsize="16" borderinterval="0"/>
+</element>
+</element>
+<element name="element5" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+204
+0
+153
+8
+65280
+0
+0
+0
+24
+1
+0
+1
+D
+84
+1
+1
+0
+1
+D
+84
+1
+3
+0
+1
+999
+0
+
+
+0
+65535
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="242.884615,103.134613" bounds="66.400002,181.600006,158.400002,209.100006" selectmode="0" id="12">
+<element name="SHAPE0" origin="31.500002,159.200006" bounds="66.400002,181.600006,158.400002,209.100006">
+<rect name="rc1" origin="43.900002,192.600006" bounds="66.400002,181.600006,158.400002,209.100006" backcolor="$99" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="61.100002,194.600006" bounds="71.942859,182.951632,153.592859,207.768705" backcolor="$FF00" frontcolor="$CC" pattern="240" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="169.300002,239.000006" bounds="71.845715,182.968908,153.495715,207.785982" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="111.400002,226.330309" bounds="72.150002,182.941469,153.800002,207.758543">
+<line name="line4" origin="134.536959,179.225632" bounds="72.519046,183.072633,153.697939,183.083622" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,183.072633,6 153.697939,183.083622,2"/>
+<line name="line1" origin="73.536959,254.171772" bounds="72.519046,182.941469,72.519046,207.702692" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,182.941469,6 72.519046,207.702692,2"/>
+<line name="line2" origin="134.936959,263.071772" bounds="72.150002,207.758543,153.800002,207.758543" backcolor="$C0C0" points="72.150002,207.758543,6 153.800002,207.758543,2"/>
+<line name="line3" origin="151.936959,255.171772" bounds="153.150372,183.252834,153.150372,207.646842" backcolor="$C0C0" points="153.150372,183.252834,6 153.150372,207.646842,2"/>
+</element>
+<text name="txt1" origin="108.900002,192.800006" bounds="72.057145,183.018705,153.455002,207.825616" backcolor="$C0C0" fontname="Arial" fontsize="24" text="999"/>
+</element>
+<element name="SHAPE1" origin="128.900002,167.600006" bounds="66.400002,181.600006,158.400002,209.100006" visible="false">
+<rect name="rc1" origin="43.900002,192.600006" bounds="66.400002,181.600006,158.400002,209.100006" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="61.100002,194.600006" bounds="71.942859,182.951632,153.592859,207.768705" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="169.300002,239.000006" bounds="71.845715,182.968908,153.495715,207.785982" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="111.400002,226.330309" bounds="72.150002,182.941469,153.800002,207.758543">
+<line name="line4" origin="134.536959,179.225632" bounds="72.519046,183.072633,153.697939,183.083622" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,183.072633,6 153.697939,183.083622,2"/>
+<line name="line1" origin="73.536959,254.171772" bounds="72.519046,182.941469,72.519046,207.702692" backcolor="$C0C0" linecolor="$FFFFFF" points="72.519046,182.941469,6 72.519046,207.702692,2"/>
+<line name="line2" origin="134.936959,263.071772" bounds="72.150002,207.758543,153.800002,207.758543" backcolor="$C0C0" points="72.150002,207.758543,6 153.800002,207.758543,2"/>
+<line name="line3" origin="151.936959,255.171772" bounds="153.150372,183.252834,153.150372,207.646842" backcolor="$C0C0" points="153.150372,183.252834,6 153.150372,207.646842,2"/>
+</element>
+<text name="txt1" origin="108.900002,192.800006" bounds="72.057145,183.018705,153.455002,207.825616" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
+</element>
+</element>
+<element name="element2" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+16737792
+0
+16711680
+8
+65280
+0
+0
+0
+24
+1
+0
+1
+D
+86
+1
+1
+0
+1
+D
+86
+1
+3
+0
+1
+999
+0
+
+
+0
+65535
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="242.923076,102.634613" bounds="319.899994,182.600006,411.899994,208.100006" selectmode="0" id="12">
+<element name="SHAPE0" origin="284.999994,160.200006" bounds="319.899994,182.600006,411.899994,208.100006">
+<rect name="rc1" origin="297.399994,193.600006" bounds="319.899994,182.600006,411.899994,208.100006" backcolor="$FF0000" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="314.599994,195.600006" bounds="325.442851,183.853332,407.092851,206.865527" backcolor="$FF00" frontcolor="$FF6600" pattern="240" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="422.799994,240.000006" bounds="325.345707,183.869352,406.995707,206.881547" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="364.899994,227.330309" bounds="325.649994,183.843908,407.299994,206.856104">
+<line name="line4" origin="388.036951,180.128071" bounds="326.019038,183.965533,407.197931,183.975723" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.965533,6 407.197931,183.975723,2"/>
+<line name="line1" origin="327.036951,255.074211" bounds="326.019038,183.843908,326.019038,206.804315" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.843908,6 326.019038,206.804315,2"/>
+<line name="line2" origin="388.436951,263.974211" bounds="325.649994,206.856104,407.299994,206.856104" backcolor="$C0C0" points="325.649994,206.856104,6 407.299994,206.856104,2"/>
+<line name="line3" origin="405.436951,256.074211" bounds="406.650366,184.132629,406.650366,206.752526" backcolor="$C0C0" points="406.650366,184.132629,6 406.650366,206.752526,2"/>
+</element>
+<text name="txt1" origin="362.399994,193.800006" bounds="325.557137,183.915527,406.954994,206.918299" backcolor="$C0C0" fontname="Arial" fontsize="24" text="999"/>
+</element>
+<element name="SHAPE1" origin="382.399994,168.600006" bounds="319.899994,182.600006,411.899994,208.100006" visible="false">
+<rect name="rc1" origin="297.399994,193.600006" bounds="319.899994,182.600006,411.899994,208.100006" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="314.599994,195.600006" bounds="325.442851,183.853332,407.092851,206.865527" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc3" origin="422.799994,240.000006" bounds="325.345707,183.869352,406.995707,206.881547" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="364.899994,227.330309" bounds="325.649994,183.843908,407.299994,206.856104">
+<line name="line4" origin="388.036951,180.128071" bounds="326.019038,183.965533,407.197931,183.975723" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.965533,6 407.197931,183.975723,2"/>
+<line name="line1" origin="327.036951,255.074211" bounds="326.019038,183.843908,326.019038,206.804315" backcolor="$C0C0" linecolor="$FFFFFF" points="326.019038,183.843908,6 326.019038,206.804315,2"/>
+<line name="line2" origin="388.436951,263.974211" bounds="325.649994,206.856104,407.299994,206.856104" backcolor="$C0C0" points="325.649994,206.856104,6 407.299994,206.856104,2"/>
+<line name="line3" origin="405.436951,256.074211" bounds="406.650366,184.132629,406.650366,206.752526" backcolor="$C0C0" points="406.650366,184.132629,6 406.650366,206.752526,2"/>
+</element>
+<text name="txt1" origin="362.399994,193.800006" bounds="325.557137,183.915527,406.954994,206.918299" backcolor="$C0C0" fontname="Arial" fontsize="16"/>
 </element>
 </element>
 </sheet>
